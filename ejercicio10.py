@@ -12,4 +12,3 @@ calculo_uno = payasos * 112
 calculo_dos = muñecas * 75
 total = calculo_uno + calculo_dos
 print("El peso total del paquete es de", total, "g")
-
